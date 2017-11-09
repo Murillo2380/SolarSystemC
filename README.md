@@ -1,5 +1,5 @@
 #Summary
-This was a project for Graphic Computation subject and now it is online to assist other students with any doubts they may have with OpenGL api.
+This was a project for Graphic Computation subject and now it is online to assist other students with any doubts they may have with C language and OpenGL api.
 
 #Instructions
 Use the **Makefile** to compile the project by typing `make` into the command line prompt then run the file using the `space` executable file.
