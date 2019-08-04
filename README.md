@@ -7,7 +7,7 @@ Use the **Makefile** to compile the project by typing `make` into the command li
 ## Arguments
 To run this arguments, type as follows on the command-line prompt: `./space <args>`. Instead of **<args>**, choose one or more of the arguments listed below. Default values can be found on **spacedef.h** file.
 
-**Note:** this project does not follow the Unix command-line patterns, instead the argument's name is an abreviation of what the command does.
+**Note:** this project does not follow the Unix command-line patterns, instead the argument's name is an abbreviation of what the command does.
 
 * **-ep** Displays the path of the planes.
 * **-ns** Disables the stars.
